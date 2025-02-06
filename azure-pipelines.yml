@@ -61,4 +61,4 @@ displayName: 'Install dependencies'
 
       pytest 
 
-      displayName: 'pytest' 
+      displayName: 'pytest'
